@@ -1,13 +1,1 @@
-// Place your key bindings in this file to override the defaults
-[
-    {
-        "key": "ctrl+d",
-        "command": "editor.action.copyLinesDownAction",
-        "when": "editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "shift+alt+down",
-        "command": "-editor.action.copyLinesDownAction",
-        "when": "editorTextFocus && !editorReadonly"
-    }
-]
+/mnt/c/Users/N_eze/AppData/Roaming/Code/User/keybindings.json
